@@ -1,0 +1,30 @@
+{
+  "name": "@duotai/dt-cli",
+  "version": "1.1.1",
+  "description": "快速拉取项目模板的cli工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "DT"
+  ],
+  "bin": {
+    "dt-cli": "./index.js"
+  },
+  "author": "dt-zhaozc",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clear": "^0.1.0",
+    "commander": "^7.2.0",
+    "cross-spawn": "^7.0.3",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.0",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.1.1",
+    "ora": "^5.4.1",
+    "shelljs": "^0.8.4"
+  }
+}
