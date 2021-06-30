@@ -1,7 +1,7 @@
 # dt-cli
 ![npm](https://img.shields.io/npm/dt/@duotai/dt-cli)
 ![npm](https://img.shields.io/npm/v/@duotai/dt-cli)
-![travis](https://travis-ci.com/BWrong/dt-cli.svg?branch=master)
+![action](https://img.shields.io/github/workflow/status/zcjunblog/dt-cli/Node.js%20Package?style=plastic)
 
 ## 介绍
 - 创建项目基础模板帮助前端快速开发,该库供你二次开发属于你的cli工具。
