@@ -1,6 +1,6 @@
 {
   "name": "@duotai/dt-cli",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "快速拉取项目模板的cli工具",
   "main": "index.js",
   "scripts": {
